@@ -4,3 +4,4 @@
 pkg install python 
 pip install tqdm
 pip install requests 
+pip install niceprint
